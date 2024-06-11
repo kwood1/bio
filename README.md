@@ -5,5 +5,4 @@ Can be reversed to obtain the original string.
 
 example - ^BANANA| -> BNN^AA|A
 
-will add more stuff later.
 
